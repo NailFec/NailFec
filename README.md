@@ -1,4 +1,4 @@
-Feel free to reach out to me via email (nailfec17@gmail.com), Telegram (@NailFec), or Signal (@NailFec).
+You can Learn more about me from my website: [nailfec.com](https://nailfec.com). Feel free to reach out to me via email (nailfec17@gmail.com), Telegram (@NailFec), or Signal (@NailFec.17).
 
 I’m currently a university student and not actively seeking full-time employment at the moment. However, I’m highly motivated to participate in CS and AI-related programs, internships, or collaborative projects. I’m happy to help where I can, and I’m also open to taking on paid projects.
 
