@@ -20,7 +20,3 @@ I’m currently a university student and not actively seeking full-time employme
 **Projects (GitHub):**  
 **Liminal**: A GUI tool for configuring the Limine bootloader with real-time preview.  
 **RubricFlow**: A web platform that helps Shanghai high-school English teachers use AI to grade open-ended responses (translations, summaries, essays). It assigns scores and generates analytical reports based on specific requirements.
-
-![Coding heatmap from WakaTime@NailFec](https://wakatime.com/share/@NailFec/9ee5eb94-97c8-40e2-b6ed-2f3e734155bd.svg)
-
-![Coding activities from WakaTime@NailFec](https://wakatime.com/share/@NailFec/6dd02a1f-4bc7-4cce-b98d-491ae2316f37.svg)
