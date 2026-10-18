@@ -4,7 +4,7 @@ I’m currently a university student and not actively seeking full-time employme
 
 **Setups:**  
 **Computer**: I run CachyOS (previously Arch Linux) with the niri window manager. I have a desktop PC with dual monitors and a laptop with a large screen. Total storage capacity is approximately 20 TB.  
-**Phone and watch**: I use a Google Pixel 10 Pro (previously Pixel 9 Pro) as my daily driver, a Google Pixel Watch 4, and a Google Pixel Buds Pro 2. I genuinely enjoy all of them.
+**Phone and watch**: I use a Google Pixel 10 Pro (previously Pixel 9 Pro) as my daily driver, a Google Pixel Watch 4, and a Google Pixel Buds Pro 2. I genuinely enjoy all of them. Alright, recently I am considering the Apple ecosystem.
 
 **Skills:**  
 **Languages**: Native speaker of Simplified Chinese (used only in daily life). English proficiency is at C1 level, with stronger performance in CS/AI technical contexts. I can also read most Traditional Chinese.  
